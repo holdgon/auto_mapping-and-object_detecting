@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/inyoung/wngod2/turtlebot4_node/install/turtlebot_node/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/inyoung/ros2_ws/install/common2/lib/common2/imp"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/inyoung/wngod2/turtlebot4_node/install/turtlebot_node/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/inyoung/ros2_ws/install/common2/lib/common2/imp"
+    ]
+}

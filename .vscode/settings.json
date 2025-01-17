@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/wngod2/turtlebot4_node/build/turtlebot_node",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/wngod2/turtlebot4_node/install/turtlebot_node/lib/python3.10/site-packages",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/build/turtlebot3_teleop",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/build/turtlebot3_example",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/wngod2/turtlebot4_node/build/turtlebot_node",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/wngod2/turtlebot4_node/install/turtlebot_node/lib/python3.10/site-packages",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/build/turtlebot3_teleop",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/build/turtlebot3_example",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/media/inyoung/82295a44-8f76-4fb1-8b4e-47add3f39f14/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
